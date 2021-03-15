@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">zar</string>
+    <string name="zar">ZAR</string>
+    <string name="temizle">Temizle</string>
+    <string name="zar_at">Zar At</string>
+    <string name="todo">TODO</string>
+</resources>
